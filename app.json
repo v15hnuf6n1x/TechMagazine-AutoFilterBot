@@ -19,23 +19,23 @@
     "repository": "https://github.com/itsyogieu/EvaMaria",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6536175076:AAFgOZBLn5DVfGN50lPN8_udbLeHnGRIVHo",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "21165589",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "8cc762f4873e84a7cf0cbfd66a07244b",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "-1001794747387",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "2048030675",
             "required": true
         },
         "PICS": {
@@ -43,7 +43,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001869648454",
             "required": true
         },
         "AUTH_USERS": {
@@ -55,11 +55,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "mongodb+srv://curd:milk@cluster.boyfnr5.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "cluster",
             "required": false
         },
         "COLLECTION_NAME": {

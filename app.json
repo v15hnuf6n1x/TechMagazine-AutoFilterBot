@@ -19,15 +19,15 @@
     "repository": "https://github.com/itsyogieu/EvaMaria",
     "env": {
         "BOT_TOKEN": {
-            "description": "6536175076:AAFgOZBLn5DVfGN50lPN8_udbLeHnGRIVHo",
+            "description": "",
             "required": true
         },
         "API_ID": {
-            "description": "21165589",
+            "description": "",
             "required": true
         },
         "API_HASH": {
-            "description": "8cc762f4873e84a7cf0cbfd66a07244b",
+            "description": "",
             "required": true
         },
         "CHANNELS": {
@@ -55,7 +55,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongodb+srv://curd:milk@cluster.boyfnr5.mongodb.net/?retryWrites=true&w=majority",
+            "description": ".",
             "required": true
         },
         "DATABASE_NAME": {

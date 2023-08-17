@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: TechMagazineAutoFilterBot
+    name: eAutoFilterBot
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
-    repo: https://github.com/itsyogieu/TechMagazineAutoFilterBot.git      
+    repo: https://github.com/v15hnuf6n1x/TechMagazine-AutoFilterBot.git      
     branch: master
     envVars:
       - key: BOT_TOKEN 
